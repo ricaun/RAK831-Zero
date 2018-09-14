@@ -1,4 +1,18 @@
-# Raspberry PI Zero RAK831 Lora Gateway Shield
+# Raspberry PI Zero RAK831 Lora Gateway Shield (ricaun)
+
+<img src="https://raw.githubusercontent.com/ricaun/RAK831-Zero/master/pictures/all.jpg" alt="Full">    
+
+## Boards 
+
+### PCB 
+
+**Top side**
+<img src="https://raw.githubusercontent.com/ricaun/RAK831-Zero/master/pictures/PiZero-RAK-top.png" alt="RAK831 Zero Shield V1.5r PCB Top">    
+
+**Bottom side**
+<img src="https://raw.githubusercontent.com/ricaun/RAK831-Zero/master/pictures/PiZero-RAK-bot.png" alt="RAK831 Zero Shield V1.5r PCB Bottom">    
+
+# Raspberry PI Zero RAK831 Lora Gateway Shield (Original)
 
 <img src="https://raw.githubusercontent.com/hallard/RAK831-Zero/master/pictures/PiZero-RAK831-finished.jpg" alt="Full">     
 
